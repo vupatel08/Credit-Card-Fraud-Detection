@@ -8,8 +8,8 @@ Assume that you are employed to help a credit card company to detect potential f
 - Classification is the process of predicting discrete variables (binary, Yes/no, etc.). Given the case, it will be more optimistic to deploy a classification model rather than any others.
 
 Steps Involved: 
-Importing the required packages into our python environment.
-Importing the data and Exploratory Data Analysis (EDA)
-Feature Selection and Data Split
-Building six types of classification models 
-Evaluating the created classification models using the evaluation metrics
+- Importing the required packages into our python environment.
+- Importing the data and Exploratory Data Analysis (EDA)
+- Feature Selection and Data Split
+- Building six types of classification models
+- Evaluating the created classification models using the evaluation metrics
