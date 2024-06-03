@@ -12,4 +12,5 @@ Steps Involved:
 - Importing the data and Exploratory Data Analysis (EDA)
 - Feature Selection and Data Split
 - Building six types of classification models
+    - Using XGBoost, Random forest, KNN, Logistic regression, SVM, and Decision tree to solve classification problems
 - Evaluating the created classification models using the evaluation metrics
